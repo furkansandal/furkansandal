@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stig4Pardus](https://github.com/furkansandal/Stig4PardusGUI)
 
-- 🌱 I’m currently learning **React Native and Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
