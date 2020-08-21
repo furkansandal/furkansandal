@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Stig4Pardus](https://github.com/furkansandal/Stig4PardusGUI)
 
+- 💻 I’m currently iOS Developer Intern on [Softtech A.Ş](https://softtech.com.tr/)
+
 - 🌱 I’m currently learning **React Native**
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
