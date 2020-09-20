@@ -5,7 +5,7 @@
 
 - 💻 I’m currently iOS Developer on [Softtech A.Ş](https://softtech.com.tr/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently building app on **Swift**
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
