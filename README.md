@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Computer Engineer and currently developing applications for every platform.</h3>
 
-- 🔭 I’m currently working on [Stig4Pardus](https://github.com/furkansandal/Stig4PardusGUI)
+- 🔭 I’m currently working on [Secret Projects 😄](#)
 
 - 💻 I’m currently iOS Developer on [Softtech A.Ş](https://softtech.com.tr/)
 
