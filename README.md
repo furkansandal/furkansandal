@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Secret Projects 😄](#)
 
-- 💻 I’m currently iOS Developer on [Softtech A.Ş](https://softtech.com.tr/)
+- 💻 I’m currently Mobile Developer on [Softtech A.Ş](https://softtech.com.tr/)
 
 - 🌱 I’m currently building app on **Swift**
 
