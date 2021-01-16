@@ -9,11 +9,11 @@
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
-- 💬 Ask me about **php, python, perl, ruby, swift and java.**
+- 💬 Ask me about **Swift, php, python, perl, ruby and java.**
 
 - 📫 How to reach me **root[at]furkansandal.com**
 
-- ⚡ Fun fact **Turkish Coffee**
+- ⚡ Fun fact **Filter Coffee**
 
 <p align="left"><p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansandal&layout=compact&hide=html" alt="furkansandal" />
