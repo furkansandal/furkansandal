@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Computer Engineer and currently developing applications for every platform.</h3>
 
-- 🔭 I’m currently working on [Secret Projects 😄](#)
+- 💻 I’m currently iOS Developer @ [Softtech A.Ş](https://softtech.com.tr/)
 
-- 💻 I’m currently Mobile Developer on [Softtech A.Ş](https://softtech.com.tr/)
-
-- 🌱 I’m currently building app on **Swift**
+- 🌱 I’m currently building app on **Swift** and **SwiftUI**
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
-- 💬 Ask me about **Swift, php, python, perl, ruby and java.**
+- 💬 Ask me about **Swift, SwiftUI, php, python, perl, ruby and java.**
 
 - 📫 How to reach me **root[at]furkansandal.com**
 
