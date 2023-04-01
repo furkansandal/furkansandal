@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am Computer Engineer and currently developing applications for every platform.</h3>
 
-- 💻 I’m currently iOS Developer @ [Innova](https://www.innova.com.tr) formerly [Softtech A.Ş](https://softtech.com.tr/)
+- 💻 I’m currently iOS Developer @ [Papara](https://www.papara.com) formerly [Softtech A.Ş](https://softtech.com.tr/) , [Innova](https://www.innova.com.tr)
 
 - 🌱 I’m currently building app on **Swift** and **SwiftUI**
 
