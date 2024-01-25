@@ -3,7 +3,7 @@
 
 - 💻 I’m currently iOS Developer @ [Papara](https://www.papara.com) formerly [Government Office](http://turkiye.gov.tr), [Softtech A.Ş](https://softtech.com.tr/) , [Innova](https://www.innova.com.tr)
 
-- 🌱 I’m currently building app on iOS/MacOS with **Swift** and **SwiftUI**
+- 🌱 I’m currently building app on iOS/MacOS/WatchOS with **Swift** and **SwiftUI**
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
