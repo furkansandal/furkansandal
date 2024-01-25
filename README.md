@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://furkansandal.com/](https://furkansandal.com/)
 
-- 💬 Ask me about **Swift, SwiftUI, JS, PHP, Python, Perl, Ruby and Java.**
+- 💬 Ask me about **Swift, SwiftUI, Node.JS, TS, PHP, Python, Perl, Ruby and Java.**
 
 - 📫 How to reach me **root[at]furkansandal.com**
 
